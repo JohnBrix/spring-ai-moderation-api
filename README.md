@@ -19,6 +19,3 @@ The API is designed to be lightweight, scalable, and easy to integrate into appl
 
 ## API Endpoints
 
-### 1. Health Check
-```http
-GET /api/v1/health
