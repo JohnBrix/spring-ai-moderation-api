@@ -1,0 +1,8 @@
+/Users/johnbrixpomoy/Documents/Github/spring-ai-moderation-api/src/main/java/com/spring/ai/nsfw/MainApplication.java
+/Users/johnbrixpomoy/Documents/Github/spring-ai-moderation-api/src/main/java/com/spring/ai/nsfw/client/ModerateClient.java
+/Users/johnbrixpomoy/Documents/Github/spring-ai-moderation-api/src/main/java/com/spring/ai/nsfw/client/impl/ModerationClientImpl.java
+/Users/johnbrixpomoy/Documents/Github/spring-ai-moderation-api/src/main/java/com/spring/ai/nsfw/controller/GuardrailController.java
+/Users/johnbrixpomoy/Documents/Github/spring-ai-moderation-api/src/main/java/com/spring/ai/nsfw/exception/GlobalExceptionHandler.java
+/Users/johnbrixpomoy/Documents/Github/spring-ai-moderation-api/src/main/java/com/spring/ai/nsfw/model/HttpModerateRequest.java
+/Users/johnbrixpomoy/Documents/Github/spring-ai-moderation-api/src/main/java/com/spring/ai/nsfw/service/ModerationService.java
+/Users/johnbrixpomoy/Documents/Github/spring-ai-moderation-api/src/main/java/com/spring/ai/nsfw/service/impl/ModerationServiceImpl.java

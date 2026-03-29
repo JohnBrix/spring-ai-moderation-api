@@ -12,10 +12,10 @@ The API is designed to be lightweight, scalable, and easy to integrate into appl
 - **NSFW Detection**: Classifies content as safe or unsafe using a trained AI model.
 - **RESTful API**: Simple endpoints for submitting text or image content.
 - **Configurable Policies**: Define thresholds for blocking or flagging content.
-- **JSON Responses**: Clear moderation results with confidence scores.
 - **Spring Boot Integration**: Built with Spring Boot for rapid deployment and scalability.
 
 ---
 
 ## API Endpoints
+- /api/v1/guardrail/content/safety
 
